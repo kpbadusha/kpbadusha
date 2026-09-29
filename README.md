@@ -14,7 +14,7 @@ I'm currently learning **cybersecurity** and building my knowledge in technology
 - 📍 Based in Olavanna, Kozhikode
 - 🗣️ Languages: Malayalam and English
 - 💪 Enjoy going to the gym
-- 🎬 Love watching films
+-    traveling
 - ⚽ Enjoy playing football
 
 ## Interests
@@ -24,7 +24,7 @@ I'm currently learning **cybersecurity** and building my knowledge in technology
 - Computer security
 - Fitness and gym
 - Football
-- Movies
+  
 
 ## Skills
 
@@ -57,7 +57,7 @@ My projects will be added here soon.
 
 ## Personal Interests
 
-- Watching films
+- traveling 
 - Going to the gym
 - Playing football
 
