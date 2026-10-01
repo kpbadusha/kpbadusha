@@ -1,9 +1,9 @@
 ## Hi there 👋
 # Hi, I'm Ibrahim Badusha 👋
 
-### Cybersecurity Learner | Beginner Developer | Football Enthusiast
+### Cybersecurity Learner | Beginner Developer | offenso hackers academy 
 
-I'm Ibrahim Badusha, also known as **Badu**, from **Olavanna, Kozhikode, Kerala**.  
+I'm Ibrahim Badusha, also known as ** offenso student**from **Olavanna, Kozhikode, Kerala**.  
 I'm currently learning **cybersecurity** and building my knowledge in technology and computer security.
 
 ## About Me
