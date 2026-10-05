@@ -52,7 +52,7 @@ My projects will be added here soon.
 ## Connect With Me
 
 - 📧 Email: [kpbadusha186@gmail.com](mailto:kpbadusha186@gmail.com)
-- 📸 Instagram: [@badushaa___](https://www.instagram.com/badushaa___)
+- 📸 Instagram: [@badushaa___](https://www.instagram.com/badushaa.___?stkn=ZGw1Nm1mdWZyZzNs)
 - 💼 LinkedIn: [Badusha](https://www.linkedin.com/)
 
 ## Personal Interests
